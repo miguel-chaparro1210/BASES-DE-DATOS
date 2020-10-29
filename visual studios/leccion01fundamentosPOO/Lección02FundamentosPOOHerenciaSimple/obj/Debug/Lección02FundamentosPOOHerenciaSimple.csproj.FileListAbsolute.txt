@@ -1,0 +1,7 @@
+C:\Users\IVAN\Desktop\SENA MIGUEL\visual studios\leccion01fundamentosPOO\Lección02FundamentosPOOHerenciaSimple\bin\Debug\Lección02FundamentosPOOHerenciaSimple.exe.config
+C:\Users\IVAN\Desktop\SENA MIGUEL\visual studios\leccion01fundamentosPOO\Lección02FundamentosPOOHerenciaSimple\bin\Debug\Lección02FundamentosPOOHerenciaSimple.exe
+C:\Users\IVAN\Desktop\SENA MIGUEL\visual studios\leccion01fundamentosPOO\Lección02FundamentosPOOHerenciaSimple\bin\Debug\Lección02FundamentosPOOHerenciaSimple.pdb
+C:\Users\IVAN\Desktop\SENA MIGUEL\visual studios\leccion01fundamentosPOO\Lección02FundamentosPOOHerenciaSimple\obj\Debug\Lección02FundamentosPOOHerenciaSimple.csprojAssemblyReference.cache
+C:\Users\IVAN\Desktop\SENA MIGUEL\visual studios\leccion01fundamentosPOO\Lección02FundamentosPOOHerenciaSimple\obj\Debug\Lección02FundamentosPOOHerenciaSimple.csproj.CoreCompileInputs.cache
+C:\Users\IVAN\Desktop\SENA MIGUEL\visual studios\leccion01fundamentosPOO\Lección02FundamentosPOOHerenciaSimple\obj\Debug\Lección02FundamentosPOOHerenciaSimple.exe
+C:\Users\IVAN\Desktop\SENA MIGUEL\visual studios\leccion01fundamentosPOO\Lección02FundamentosPOOHerenciaSimple\obj\Debug\Lección02FundamentosPOOHerenciaSimple.pdb

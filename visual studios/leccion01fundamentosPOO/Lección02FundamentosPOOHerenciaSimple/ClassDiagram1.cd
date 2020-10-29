@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lección02FundamentosPOOHerenciaSimple.Electrodomestico">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAAAQAAAAAAAAIAIAAAAA=</HashCode>
+      <FileName>Electrodomestico.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lección02FundamentosPOOHerenciaSimple.Lavadora">
+    <Position X="2.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAIAAAABAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Lavadora.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lección02FundamentosPOOHerenciaSimple.Televisor">
+    <Position X="6" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAABAAAAAAACAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Televisor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="8.91" />
+</ClassDiagram>

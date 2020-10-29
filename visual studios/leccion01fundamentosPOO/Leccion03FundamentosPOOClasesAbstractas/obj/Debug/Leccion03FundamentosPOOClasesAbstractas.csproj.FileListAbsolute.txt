@@ -1,0 +1,7 @@
+C:\Users\IVAN\Desktop\SENA MIGUEL\visual studios\leccion01fundamentosPOO\Leccion03FundamentosPOOClasesAbstractas\bin\Debug\Leccion03FundamentosPOOClasesAbstractas.exe.config
+C:\Users\IVAN\Desktop\SENA MIGUEL\visual studios\leccion01fundamentosPOO\Leccion03FundamentosPOOClasesAbstractas\bin\Debug\Leccion03FundamentosPOOClasesAbstractas.exe
+C:\Users\IVAN\Desktop\SENA MIGUEL\visual studios\leccion01fundamentosPOO\Leccion03FundamentosPOOClasesAbstractas\bin\Debug\Leccion03FundamentosPOOClasesAbstractas.pdb
+C:\Users\IVAN\Desktop\SENA MIGUEL\visual studios\leccion01fundamentosPOO\Leccion03FundamentosPOOClasesAbstractas\obj\Debug\Leccion03FundamentosPOOClasesAbstractas.csprojAssemblyReference.cache
+C:\Users\IVAN\Desktop\SENA MIGUEL\visual studios\leccion01fundamentosPOO\Leccion03FundamentosPOOClasesAbstractas\obj\Debug\Leccion03FundamentosPOOClasesAbstractas.csproj.CoreCompileInputs.cache
+C:\Users\IVAN\Desktop\SENA MIGUEL\visual studios\leccion01fundamentosPOO\Leccion03FundamentosPOOClasesAbstractas\obj\Debug\Leccion03FundamentosPOOClasesAbstractas.exe
+C:\Users\IVAN\Desktop\SENA MIGUEL\visual studios\leccion01fundamentosPOO\Leccion03FundamentosPOOClasesAbstractas\obj\Debug\Leccion03FundamentosPOOClasesAbstractas.pdb

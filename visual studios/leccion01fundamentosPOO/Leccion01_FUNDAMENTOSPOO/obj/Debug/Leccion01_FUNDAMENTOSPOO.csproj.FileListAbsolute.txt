@@ -1,0 +1,7 @@
+C:\Users\IVAN\Desktop\SENA MIGUEL\visual studios\leccion01fundamentosPOO\Leccion01_FUNDAMENTOSPOO\bin\Debug\Leccion01_FUNDAMENTOSPOO.exe.config
+C:\Users\IVAN\Desktop\SENA MIGUEL\visual studios\leccion01fundamentosPOO\Leccion01_FUNDAMENTOSPOO\bin\Debug\Leccion01_FUNDAMENTOSPOO.exe
+C:\Users\IVAN\Desktop\SENA MIGUEL\visual studios\leccion01fundamentosPOO\Leccion01_FUNDAMENTOSPOO\bin\Debug\Leccion01_FUNDAMENTOSPOO.pdb
+C:\Users\IVAN\Desktop\SENA MIGUEL\visual studios\leccion01fundamentosPOO\Leccion01_FUNDAMENTOSPOO\obj\Debug\Leccion01_FUNDAMENTOSPOO.csprojAssemblyReference.cache
+C:\Users\IVAN\Desktop\SENA MIGUEL\visual studios\leccion01fundamentosPOO\Leccion01_FUNDAMENTOSPOO\obj\Debug\Leccion01_FUNDAMENTOSPOO.csproj.CoreCompileInputs.cache
+C:\Users\IVAN\Desktop\SENA MIGUEL\visual studios\leccion01fundamentosPOO\Leccion01_FUNDAMENTOSPOO\obj\Debug\Leccion01_FUNDAMENTOSPOO.exe
+C:\Users\IVAN\Desktop\SENA MIGUEL\visual studios\leccion01fundamentosPOO\Leccion01_FUNDAMENTOSPOO\obj\Debug\Leccion01_FUNDAMENTOSPOO.pdb
