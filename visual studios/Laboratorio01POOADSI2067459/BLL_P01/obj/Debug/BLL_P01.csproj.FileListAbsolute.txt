@@ -1,0 +1,6 @@
+C:\Users\IVAN\Desktop\SENA MIGUEL\visual studios\Laboratorio01POOADSI2067459\BLL_P01\bin\Debug\BLL_P01.dll
+C:\Users\IVAN\Desktop\SENA MIGUEL\visual studios\Laboratorio01POOADSI2067459\BLL_P01\bin\Debug\BLL_P01.pdb
+C:\Users\IVAN\Desktop\SENA MIGUEL\visual studios\Laboratorio01POOADSI2067459\BLL_P01\obj\Debug\BLL_P01.csprojAssemblyReference.cache
+C:\Users\IVAN\Desktop\SENA MIGUEL\visual studios\Laboratorio01POOADSI2067459\BLL_P01\obj\Debug\BLL_P01.csproj.CoreCompileInputs.cache
+C:\Users\IVAN\Desktop\SENA MIGUEL\visual studios\Laboratorio01POOADSI2067459\BLL_P01\obj\Debug\BLL_P01.dll
+C:\Users\IVAN\Desktop\SENA MIGUEL\visual studios\Laboratorio01POOADSI2067459\BLL_P01\obj\Debug\BLL_P01.pdb
